@@ -75,7 +75,6 @@ $isLowerChecked = $useLower ? 'checked' : '';
 $isDigitsChecked = $useDigits ? 'checked' : '';
 $isSymbolsChecked = $useSymbols ? 'checked' : '';
 
-// Générer les options pour le select
 $selectOptions = generateSelectOptions($length);
 
 
